@@ -1,5 +1,5 @@
 # Nonuniform
 
-paper 'A New Image Formation Model for Descattering'
+paper 'A Novel Image Formation Model for Descattering'
 
-code and figures to be released
+Codes and figures will be released after being accepted.
